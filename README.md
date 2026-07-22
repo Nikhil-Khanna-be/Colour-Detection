@@ -73,13 +73,13 @@ blue_U = np.array([140,255,255], np.uint8)
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Nikhil-Khanna-be/Colour-Detection.git
 ```
 
 ### 2️⃣ Navigate to the project folder
 
 ```bash
-cd your-repository-name
+cd Colour-Detection
 ```
 
 ### 3️⃣ Install the required libraries
@@ -91,7 +91,7 @@ pip install opencv-python numpy
 ### 4️⃣ Run the project
 
 ```bash
-python color_detection.py
+python colour_detection.py
 ```
 
 ---
